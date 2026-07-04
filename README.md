@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RAYANSEDDOUKI
-- 👀 I’m interested in front-end Developer
+- 👀 I’m interested in Software development field                       
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
